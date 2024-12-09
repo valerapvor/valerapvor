@@ -1,8 +1,27 @@
-- 👋 Hi, I’m @shed137
-- 👀 I’m interested in python programming and frontend development
-- 🌱 I’m currently learning python and js
+# 👨‍💻 About Me
 
-<!---
-shed137/shed137 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Name:** Artem  
+**Location:** Dnipro, Ukraine 🇺🇦  
+**Interests:** Exploring programming languages and expanding my skills.  
+**Knowledgeable in:**  
+- 🌐 **HTML & CSS**  
+- 🐧 **Linux**  
+- 🐍 **Python**  
+
+**Tools I Use:**  
+- 🖥️ **Linux:** Fedora 41 (Gnome)  
+- 📝 **Editors:** VSCode, VIM  
+- 🎥 **Video Editing:** Kdenlive  
+- 🎨 **Design:** Krita, Photoshop  
+- 📡 **Video recording:** OBS  
+
+Welcome to my GitHub page! Here you'll find small yet meaningful projects crafted with passion and dedication. 🎨✨  
+
+---
+
+# 🌐 Connect with Me
+
+- 🌍 **Website:** [Shedevro.space](https://www.shedevro.space/)  
+- 📺 **YouTube:** [@shedevro1337](https://www.youtube.com/@shedevro1337)  
+- 📢 **Telegram Channel:** [@pentiumgolduser](https://t.me/pentiumgolduser)  
+- 🎮 **Steam:** [Shedevro1337](https://steamcommunity.com/id/shedevro1337/)  
